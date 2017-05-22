@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">HW4</string>
+    <string name="title_activity_settings">Settings</string>
+    <string-array name="distanceMetrics">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="angleMetrics">
+        <item>Degrees</item>
+        <item>Radians</item>
+    </string-array>
+
+
 </resources>
